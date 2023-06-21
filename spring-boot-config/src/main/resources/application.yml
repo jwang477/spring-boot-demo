@@ -1,0 +1,9 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: spring-boot-config
+
+xiwen:
+  name: 喜闻
+  age: 20
